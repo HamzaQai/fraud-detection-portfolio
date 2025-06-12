@@ -1,0 +1,56 @@
+# Core Data Science
+pandas>=1.5.0
+numpy>=1.21.0
+scipy>=1.9.0
+
+# Machine Learning
+scikit-learn>=1.1.0
+xgboost>=1.6.0
+lightgbm>=3.3.0
+catboost>=1.0.0
+
+# Imbalanced Learning (crucial pour la fraude)
+imbalanced-learn>=0.9.0
+
+# Feature Engineering
+category_encoders>=2.5.0
+feature-engine>=1.4.0
+
+# Model Persistence & Deployment
+joblib>=1.2.0
+pickle5>=0.0.11
+
+# Data Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Progress & Utilities
+tqdm>=4.64.0
+python-dotenv>=0.19.0
+
+# Kaggle Integration
+kaggle>=1.5.12
+
+# Model Interpretation (important pour la fraude)
+shap>=0.41.0
+eli5>=0.13.0
+
+# Time Series (pour features temporelles)
+statsmodels>=0.13.0
+
+# Advanced Preprocessing
+sklearn-pandas>=2.2.0
+
+# Hyperparameter Optimization
+optuna>=3.0.0
+hyperopt>=0.2.7
+
+# Memory Optimization
+pyarrow>=9.0.0
+fastparquet>=0.8.0
+
+# Jupyter & Development
+jupyter>=1.0.0
+ipywidgets>=7.7.0
+nbconvert>=6.5.0
