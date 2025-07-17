@@ -131,15 +131,7 @@ fraud-detection-portfolio/
 - AutoML pour optimisation automatique
 - Federated Learning pour données sensibles
 
-## 📞 **Contact**
 
-**Spécialiste Détection Fraude** | **Expert ML Finance**
-
-📧 **Email**: votre.email@domain.com  
-💼 **LinkedIn**: [Votre Profil LinkedIn]  
-🐱 **GitHub**: [Autres projets]
-
----
 
 > 💡 **"La fraude évolue, nos modèles aussi"**  
 > Chaque jour apporte de nouveaux patterns de fraude. Ce repository documente mes approches pour rester une longueur d'avance.
